@@ -1,4 +1,5 @@
-# missouri
+# USS MISSOURI SSN-780
+
 The official site of MRPC: US Navy sub-faction USS Missouri SSN-780. 
 
 <br>
